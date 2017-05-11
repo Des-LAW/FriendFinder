@@ -1,0 +1,31 @@
+{
+  "name": "friendfinder",
+  "version": "0.0.1",
+  "description": "friend finder app. week 13 homework.",
+  "main": "server.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "start": "node server.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Des-LAW/FriendFinder.git"
+  },
+  "keywords": [
+    "friend",
+    "finder",
+    "node",
+    "express",
+    "server"
+  ],
+  "author": "deslaw",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/Des-LAW/FriendFinder/issues"
+  },
+  "homepage": "https://github.com/Des-LAW/FriendFinder#readme",
+  "dependencies": {
+    "body-parser": "^1.17.1",
+    "express": "^4.15.2"
+  }
+}
